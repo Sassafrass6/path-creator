@@ -7,8 +7,7 @@ Usage:
 (3) Call the make_path function.  
 
   Arguments:  
-    path (str): A string with delimiter separated high symmetry points.  
-                Delimiter - specifies continuous path and | specifies a broken path  
+    path (str): A string with delimiter separated high symmetry points. Delimiter - specifies continuous path and | specifies a broken path  
     points (dict): Dictionary mapping high symmetry symbol to 3d k-position  
     resolution (float): Resolution of the k-path. Higher resolution means more points along each path line  
   
